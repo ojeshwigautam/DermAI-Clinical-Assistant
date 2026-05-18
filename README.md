@@ -81,7 +81,7 @@ derma_nlp_project/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/ojeshwigautam/Bias-Lens-Pro.git
+git clone https://github.com/ojeshwigautam/DermaAI-Clinical-Assistant.git
 cd Bias-Lens-Pro
 ```
 
