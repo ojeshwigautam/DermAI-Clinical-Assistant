@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Data (large files — download separately)
+data/ham10000_images_part_1/
+data/ham10000_images_part_2/
+data/*.zip
+
+# Models (large — tracked separately or via Git LFS)
+models/best_model.pt
+models/severity_classifier/
+
+# Outputs
+outputs/
+reports/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Kaggle
+kaggle.json
