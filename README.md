@@ -82,7 +82,7 @@ derma_nlp_project/
 
 ```bash
 git clone https://github.com/ojeshwigautam/DermaAI-Clinical-Assistant.git
-cd Bias-Lens-Pro
+cd DermAI-Clinical-Assistant
 ```
 
 ---
