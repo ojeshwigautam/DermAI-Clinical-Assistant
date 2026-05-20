@@ -138,7 +138,7 @@ http://localhost:8501
 
 ---
 
-# 🧠 Deep Learning Pipeline (CSR311)
+# 🧠 Deep Learning Pipeline
 
 | Component         | Detail                                        |
 | ----------------- | --------------------------------------------- |
@@ -154,7 +154,7 @@ http://localhost:8501
 
 ---
 
-# 📝 NLP Pipeline (CSR322)
+# 📝 NLP Pipeline
 
 | Component      | Detail                           |
 | -------------- | -------------------------------- |
